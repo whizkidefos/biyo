@@ -176,7 +176,7 @@ body {
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   .about-us {
     padding: 11% 0;
   }
