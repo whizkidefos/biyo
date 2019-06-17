@@ -119,6 +119,9 @@
     @media(max-width: 600px) {
         padding: 11% 0;
     }
+    @media(max-width: 480px) {
+        padding: 15% 0;
+    }
 
     &-left {
         width: 40%;
